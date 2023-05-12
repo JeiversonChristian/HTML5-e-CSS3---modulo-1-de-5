@@ -1,6 +1,8 @@
 # Curso de HTML5 e CSS3
 ## Módulo 1 de 5 [40 horas]
 
+### Projeto pausado
+
 Este respositório é o resultado do primeiro módulo deste curso ofertado pelo lendário professor Gustavo Guanabará, no [Curso em Vídeo](https://www.cursoemvideo.com/).
 
 ## O que aprendi
